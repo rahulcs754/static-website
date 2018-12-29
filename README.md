@@ -2,9 +2,10 @@
 <div align="center"> python static website example </div>
 
 
-# instruction for run this project
+## instruction for run this project
+
 -First of all, clone this project using following command
 
-'''
+```
 $ git clone https://github.com/rahulcs754/static-website.git
-'''
+```
